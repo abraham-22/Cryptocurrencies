@@ -14,5 +14,5 @@ This data analysis includes four steps:
 * Software: Python 3.9.15, Anaconda Navigator 2.3.2, Conda 23.1.0, Jupyter Notebook 6.5.2
 
 ## Results:
- All the analysis result can be found on this [link](https://github.com/abraham-22/Cryptocurrencies/blob/main/crypto_clustering.ipynb).
+ All the analysis results and visualization can be found on this [link](https://github.com/abraham-22/Cryptocurrencies/blob/main/crypto_clustering.ipynb).
  
